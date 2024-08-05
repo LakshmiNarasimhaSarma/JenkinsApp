@@ -18,9 +18,9 @@
 
   <distributionManagement>
     <site>
-      <id>site-server</id>
-      <name>Test Project Site</name>
-      <url>file:///tmp/single-module-site</url>
+      <id>My-Jenkins-App</id>
+      <name>JenkinsApp</name>
+      <url>https://github.com/LakshmiNarasimhaSarma/JenkinsApp.git</url>
     </site>
   </distributionManagement>
 
