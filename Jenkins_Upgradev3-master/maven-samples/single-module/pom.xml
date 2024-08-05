@@ -18,7 +18,7 @@
 
   <distributionManagement>
     <repository>
-      <id>My-Jenkins-App</id>
+      <id>JenkinsApp</id>
       <name>JenkinsApp</name>
       <url>https://github.com/LakshmiNarasimhaSarma/JenkinsApp.git</url>
     </repository>
