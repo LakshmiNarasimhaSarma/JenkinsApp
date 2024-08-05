@@ -17,11 +17,11 @@
   </properties>
 
   <distributionManagement>
-    <site>
+    <repository>
       <id>My-Jenkins-App</id>
       <name>JenkinsApp</name>
       <url>https://github.com/LakshmiNarasimhaSarma/JenkinsApp.git</url>
-    </site>
+    </repository>
   </distributionManagement>
 
   <build>
